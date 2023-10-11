@@ -1,9 +1,8 @@
-# Sony Playstation 2 3D-Covers
+# Sony Playstation 2 Covers
 Archive containing 2.586 covers of Playstation 1 games to be used in the Duckstation emulator.
 
 <h2>Choose from these two options below:</h2>
-<h4>Packed:</h4>
-<h4>Unpacked:</h4>
+<h4>Unpacked:</h4>https://github.com/andercard0/Playstation2_3DCovers/tree/main/covers%20%5BPacked%5D
 <br>
 
 Results example:
