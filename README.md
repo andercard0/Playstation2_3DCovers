@@ -1,5 +1,5 @@
 # Sony Playstation 2 3D-Covers
-Archive containing X.XXXX covers of Playstation 1 games to be used in the Duckstation emulator.
+Archive containing 2.586 covers of Playstation 1 games to be used in the Duckstation emulator.
 
 <h2>Choose from these two options below:</h2>
 <h4>Packed:</h4>
